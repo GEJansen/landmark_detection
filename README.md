@@ -41,7 +41,7 @@ Key results include:
 1. Clone the repository:
     ```bash
     git clone <repository-url>
-    cd landmark_detection_julia
+    cd landmark_detection
     ```
 
 2. Create a virtual environment and activate it:
